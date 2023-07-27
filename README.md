@@ -1,4 +1,4 @@
-# Sistema Solar
+# Sistema Solar ☀
 
 Quer saber mais sobre os planetas do sistema solar e todas as missões espaciais já feitas de uma vez? Eu fiz isso pra você então.
 
